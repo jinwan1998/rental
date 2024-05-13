@@ -1,0 +1,64 @@
+System Administrator
+As a System Administrator, I want to be able to create user accounts to enable new users to access the system.
+As a System Administrator, I want to display user account information to review account statuses.
+As a System Administrator, I want to modify user accounts to update user information as needed.
+As a System Administrator, I want to suspend user accounts to prevent unauthorized access.
+As a System Administrator, I want to search for user accounts to facilitate easy access to user information.
+As a System Administrator, I want to create user profiles to enable viewing of user profiles.
+As a System Administrator, I want to display user profiles to allow viewing of user profile details.
+As a System Administrator, I want to modify user profiles to enable changes to user details.
+As a System Administrator, I want to suspend user profiles to prevent users from accessing them.
+As a System Administrator, I want to search user profiles to locate specific user details.
+As a System Administrator, I want to log in to access the system.
+As a System Administrator, I want to log out to exit the system.
+As a System Administrator, I want to receive email notifications for system alerts and important updates.
+As a System Administrator, I want to view statistics and analytics related to user activities and system performance.
+As a System Administrator, I want to reset passwords for users who forget them.
+As a System Administrator, I want to manage system configurations and settings for optimal performance.
+As a System Administrator, I want to generate reports on user activities and system usage.
+Real Estate Agent
+As a Real Estate Agent, I want to create property listings to post properties for sale or rent.
+As a Real Estate Agent, I want to remove property listings to delete outdated or sold properties.
+As a Real Estate Agent, I want to view property listings to access property details and information.
+As a Real Estate Agent, I want to modify property listings to update property information and status.
+As a Real Estate Agent, I want to search property listings to quickly find specific properties.
+// As a Real Estate Agent, I want to view ratings provided by buyers and sellers to assess client satisfaction.
+// As a Real Estate Agent, I want to view reviews provided by buyers and sellers to understand client experiences.
+As a Real Estate Agent, I want to log in to access the real estate system.
+As a Real Estate Agent, I want to log out to exit the system.
+As a Real Estate Agent, I want to receive email notifications for property inquiries and updates.
+As a Real Estate Agent, I want to filter property listings based on client preferences to provide tailored recommendations.
+As a Real Estate Agent, I want to sort property listings by various attributes to assist clients in decision-making.
+//As a Real Estate Agent, I want to compare multiple property listings to showcase property options to clients.
+-As a Real Estate Agent, I want to share property listings on social media or via email to expand property visibility.
+-As a Real Estate Agent, I want to receive personalized property recommendations based on client preferences.
+As a Real Estate Agent, I want the system to be mobile-friendly for convenient property management on-the-go.
+Buyer
+As a Buyer, I want to view property listings for new properties to explore available options.
+As a Buyer, I want to search property listings for new properties to find suitable listings.
+As a Buyer, I want to save property listings for new properties to create a list of favorites.
+As a Buyer, I want to view property listings for old properties to explore historical listings.
+As a Buyer, I want to search property listings for old properties to find specific listings.
+As a Buyer, I want to save property listings for old properties to create a list of favorites.
+As a Buyer, I want to calculate mortgage amounts to estimate monthly payments for property purchases.
+As a Buyer, I want to rate real estate agents based on my experience to provide feedback.
+As a Buyer, I want to write detailed reviews of real estate agents to assist other buyers in selecting agents.
+As a Buyer, I want to log in to access the real estate system.
+As a Buyer, I want to log out to exit the system.
+As a Buyer, I want to receive email notifications for property updates and new listings.
+As a Buyer, I want to filter property listings based on specific criteria (e.g., location, price) to refine search results.
+As a Buyer, I want to sort property listings by various attributes (e.g., price, date listed) for comparison.
+As a Buyer, I want to compare multiple property listings side by side to make informed decisions.
+As a Buyer, I want to share property listings with others via social media or email.
+As a Buyer, I want to receive personalized property recommendations based on my preferences.
+As a Buyer, I want the system to be mobile-friendly for property browsing on-the-go.
+As a Buyer, I want to reset my password if I forget it.
+As a Buyer, I want to view my property interaction history and saved searches for reference.
+As a Buyer, I want to receive updates on property listings via SMS notifications.
+Seller
+As a Seller, I want to track the number of views on my property listing to gauge interest.
+As a Seller, I want to monitor how many times my property has been shortlisted to understand its popularity.
+As a Seller, I want to rate real estate agents based on my experience to provide feedback.
+As a Seller, I want to write detailed reviews of real estate agents to assist other sellers and buyers.
+As a Seller, I want to log in to access the real estate system.
+As a Seller, I want to log out to exit the system.
